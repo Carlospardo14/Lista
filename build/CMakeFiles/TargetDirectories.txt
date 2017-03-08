@@ -1,0 +1,3 @@
+/home/carlos/Lista/build/CMakeFiles/edit_cache.dir
+/home/carlos/Lista/build/CMakeFiles/rebuild_cache.dir
+/home/carlos/Lista/build/CMakeFiles/Lista.dir
